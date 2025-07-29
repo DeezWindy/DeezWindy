@@ -2,7 +2,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Avocados Devs" src="[YOUR-DEFAULT-IMAGE](https://img.freepik.com/premium-vector/avocado-cute-logo_750054-12.jpg)">
 </picture>
 
 
